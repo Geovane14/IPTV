@@ -8,3 +8,8 @@ http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGT
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre" Pioneira
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="via morena"tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg" group-title="CANAIS",VIA MORENA 
+https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/playlist.m3u8 
