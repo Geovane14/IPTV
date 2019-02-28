@@ -9,5 +9,5 @@ http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGT
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",SBT HD
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Record Newses
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Record News
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=2054933918
