@@ -11,3 +11,6 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Record News
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=2054933918
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Disney Junior
+http://50.7.186.123:8081/live/animax/chunks.m3u8?nimblesessionid=1152461&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDE5IDExOjM4OjQxIFBNJmhhc2hfdmFsdWU9bTBtcncwUlRoRTUyc3ErY3A2dkp5dz09JnZhbGlkbWludXRlcz0xNjAmc3RybV9sZW49MTE=&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDE5IDExOjM4OjQxIFBNJmhhc2hfdmFsdWU9bTBtcncwUlRoRTUyc3ErY3A2dkp5dz09JnZhbGlkbWludXRlcz0xNjAmc3RybV9sZW49MTE=
