@@ -22,4 +22,4 @@ http://50.7.186.123:8081/live/master04/chunks.m3u8?nimblesessionid=1176102&wmsAu
 http://stream2.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b328000_slpor.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",GAZETA HD
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8  
