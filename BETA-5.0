@@ -14,3 +14,6 @@ http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Record
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w635867146.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Discovery Channel
+http://50.7.186.123:8081/live/master04/chunks.m3u8?nimblesessionid=1176102&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTkgMjoyNjoxMiBBTSZoYXNoX3ZhbHVlPUdBR1V4MWUyOXgyL1A2cUQzd2VPRGc9PSZ2YWxpZG1pbnV0ZXM9MTYwJnN0cm1fbGVuPTEz&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTkgMjoyNjoxMiBBTSZoYXNoX3ZhbHVlPUdBR1V4MWUyOXgyL1A2cUQzd2VPRGc9PSZ2YWxpZG1pbnV0ZXM9MTYwJnN0cm1fbGVuPTEz
