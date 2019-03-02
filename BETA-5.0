@@ -20,3 +20,6 @@ http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8pwaldo_paes.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",TV Plenitude
 http://siteiaptd.paineldecontrole.info:1935/live/smil:site.smil/chunklist_w925728209_b1096000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre", dezenho
+http://s002.thevid.tv/v/1b84afaf62a5e448ea905d824643394d.mp4?e=1551589805&sa=GlwDIU6Pj4QDSkmA2Iv0Hg&st=Iz2NAuYrcB93YaEhs4s8Gw
