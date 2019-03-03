@@ -30,6 +30,22 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w611553597_b14
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",InfoMoney Tv
 https://stream-04.nyc.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzOdlXeqGv8ytVt-v46sJHP4)/dm/3/x4kqewq/s/live-4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",MTV
+http://50.7.186.123:8081/live/hbohd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Disney XD
+http://50.7.186.123:8081/live/disneyxd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre", Discovery Turbo
+http://50.7.186.123:8081/live/turbo/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",A&E
+http://50.7.186.123:8081/live/ae_1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Disney Junior
+http://50.7.186.123:8081/live/animax/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Discovery Kids
+http://50.7.186.123:8081/live/master24/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",
