@@ -20,3 +20,9 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w611553597_b14
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Band
 https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Via Morena
+https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/chunklist_w1143568183.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",TV Jornal (SBT PE)
+https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w1812923754.m3u8
