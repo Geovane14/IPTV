@@ -17,3 +17,6 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w168345658.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",TV Igreja Mundial do Poder de Deus - IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w611553597_b1431072.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Yf0qkd/images-jpeg.jpg" group-title="Canal Livre",Band
+https://www.skyiptv.com.br:25463/live/Campeonato/Paulista2019/4.m3u8
