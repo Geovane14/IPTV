@@ -1,1 +1,4 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f2a5fb8849750ea43ac9660b2fc0ac76.png" group-title="Canal Livre",TV Jornal (SBT PE)
+https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w1561107463.m3u8
