@@ -5,3 +5,15 @@ https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w1561107463.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="Canal Livre",TV Diário
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="Canal Livre",TV Igreja Mundial do Poder de Deus - IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1776291776_b1431072.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg" group-title="Canal Livre",Via Morena
+https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/chunklist_w455746284.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16da1f7b0f5766e3fdfbbbca0dad79ea.jpg" group-title="Canal Livre",TV na Ilha
+http://wowv.gadi.com.br/tvnailha/tvnailha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canal Livre",
+#EXTINF:-1 tvg-logo="" group-title="Canal Livre",
